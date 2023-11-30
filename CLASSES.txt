@@ -1,0 +1,20 @@
+Structure of OOP:
+1- Classes
+2- Objects
+3- Methods
+4- Attributes
+-----------------------
+The priciples of OOP:
+1-  Encapsulation.
+2-  Abstraction
+3-  Inheritance
+4-  Polymorphism
+------------------------
+What are the benefits of OOP?
+1- Modularity
+2- Reusability.
+3- Productivity
+4- Easily upgradable and scalable
+5- Interface descriptions
+6- Security.
+7- Flexibility
